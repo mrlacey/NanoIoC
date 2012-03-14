@@ -1,0 +1,1 @@
+Read more and see sample usage at http://blog.mrlacey.co.uk/2012/03/nanoioc-how-i-do-depenedency-injection.html
